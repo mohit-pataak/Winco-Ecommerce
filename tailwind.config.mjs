@@ -11,6 +11,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        amaranth: "var(--font-amaranth)",
+        lora: "var(--font-geist-lora)",
+        questrial: "var(--font-questrial)",
+      },
     },
   },
   plugins: [],
